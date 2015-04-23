@@ -1,0 +1,23 @@
+Technical References:
+
+http://colorbrewer2.org/
+
+http://docs.ggplot2.org/current/
+
+https://github.com/danlwarren/RWTY/blob/master/rwty/R/ggally_cor_modified.R
+
+http://www.rstudio.com/resources/cheatsheets/
+
+
+Business knowledges:
+
+https://fr.wikipedia.org/wiki/Vinification (french)
+
+http://www.oenologie.fr/oeno/vinification/vinif_rouge.shtml (french)
+
+https://en.wikipedia.org/wiki/PH
+
+
+Project example by Chris Saden
+
+https://s3.amazonaws.com/udacity-hosted-downloads/ud651/diamondsExample.html
